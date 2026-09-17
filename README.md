@@ -7,7 +7,7 @@ Paid live video sessions with real-time chat, follows and scheduling — two vid
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Full-stack engineer — video transport integration, payments, and the Inertia/React front end.
+Full-stack engineer
 
 ## Engineering highlights
 
