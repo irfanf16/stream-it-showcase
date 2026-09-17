@@ -30,13 +30,6 @@ Full-stack engineer
 
 ![Architecture](docs/architecture.svg)
 
-## Screenshots
-
-<!-- ![Live Session](docs/live-session.png) -->
-<!-- ![Scheduling](docs/scheduling.png) -->
-<!-- ![Checkout](docs/checkout.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
